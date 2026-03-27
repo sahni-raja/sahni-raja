@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Raja Kumar<br><br>
-🎓 Final Year B.Tech CSE Student at Heritage Institute of Technology  <br>
+🎓  B.Tech in Computer Science Engineering | Heritage Institute of Technology, Kolkata  <br>
 💻 Full Stack Developer (MERN Stack)  <br>
 📍 Kolkata, India  <br>
 🚀 Actively Seeking Software Developer / Full Stack Developer Roles  <br><br>
